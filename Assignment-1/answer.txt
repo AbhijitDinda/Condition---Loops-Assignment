@@ -1,0 +1,14 @@
+What are conditional statements? conditional statements with syntax ?
+
+ANSWER =>
+ Conditional statements in programming are used to control the flow of a program based on certain conditions. These statements allow the execution of different code blocks depending on whether a specified condition evaluates to true or false, providing a fundamental mechanism for decision-making in algorithms. In this article, we will learn about the basics of Conditional Statements along with their different types.
+
+syntax:-
+
+ if (condition) {
+    // code block to execute if condition is true
+} else if (anotherCondition) {
+    // code block to execute if anotherCondition is true
+} else {
+    // code block to execute if none of the above conditions are true
+}
